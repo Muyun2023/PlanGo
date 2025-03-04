@@ -1,6 +1,6 @@
 # PlanGo
 
-**PlanGo** is a UX design course project that addresses common issues travelers face. It visualizes user flows to identify problems and show solutions, uses user storytelling to detail the design process, and presents the final product interface created in Figma.
+**PlanGo** is a UIUX design course project that addresses common issues travelers face. It visualizes user flows to identify problems and show solutions, uses user storytelling to detail the design process, and presents the final product interface created in Figma.
 
 ## Features
 - **User Flows**: Visualize traveler pain points and solutions.
