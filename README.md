@@ -10,6 +10,7 @@
 ## Installation
 
 Clone the repository: git clone https://github.com/Muyun2023/PlanGo.git
+
 Figma installation required. Access the designs directly on Figma.
 
 ## Usage
