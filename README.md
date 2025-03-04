@@ -1,25 +1,29 @@
 # PlanGo
-PlanGo
-PlanGo is a [brief description of the project]. The goal of this project is to [explain the purpose or goal of the project].
 
-Features
-Feature 1
-Feature 2
-Feature 3
-Installation
+**PlanGo** is a UX design course project that addresses common issues travelers face. It visualizes user flows to identify problems and show solutions, uses user storytelling to detail the design process, and presents the final product interface created in Figma.
+
+## Features
+- **User Flows**: Visualize traveler pain points and solutions.
+- **User Storytelling**: Demonstrate the problem-solving process.
+- **Figma Interface**: A fully designed travel-related solution.
+
+## Installation
+
 Clone the repository:
 
-bash
-Copy
-Edit
+```bash
 git clone https://github.com/Muyun2023/PlanGo.git
-[Install any dependencies or setup instructions]
+
+No installation required. Access the designs directly on Figma.
 
 Usage
-[Explain how to run or use the project. Include any necessary code examples.]
-
+Review the user flows and storytelling to understand the problem-solving approach.
+Interact with the product interface through Figma.
 Contributing
-Feel free to fork the repository, create an issue, or submit a pull request. Contributions are always welcome!
+Feel free to fork the repository, open issues, or submit pull requests. Contributions are welcome!
 
 License
-This project is licensed under the [Your License] License - see the LICENSE.md file for details.
+This project is licensed under the [Your License] License. See the LICENSE.md file for more details.
+
+Let me know if you need any more edits!
+
