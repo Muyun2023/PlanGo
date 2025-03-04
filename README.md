@@ -9,21 +9,16 @@
 
 ## Installation
 
-Clone the repository:
+Clone the repository: git clone https://github.com/Muyun2023/PlanGo.git
+Figma installation required. Access the designs directly on Figma.
 
-```bash
-git clone https://github.com/Muyun2023/PlanGo.git
-
-No installation required. Access the designs directly on Figma.
-
-Usage
+## Usage
 Review the user flows and storytelling to understand the problem-solving approach.
 Interact with the product interface through Figma.
 Contributing
 Feel free to fork the repository, open issues, or submit pull requests. Contributions are welcome!
 
-License
+## License
 This project is licensed under the [Your License] License. See the LICENSE.md file for more details.
-
 Let me know if you need any more edits!
 
