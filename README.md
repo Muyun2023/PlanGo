@@ -23,3 +23,4 @@ Feel free to fork the repository, open issues, or submit pull requests. Contribu
 This project is licensed under the [Your License] License. See the LICENSE.md file for more details.
 Let me know if you need any more edits!
 
+© Muyun Ji. Confidential and Proprietary. All Rights Reserved.
