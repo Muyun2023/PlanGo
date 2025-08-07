@@ -30,7 +30,7 @@ It visualizes user flows to identify pain points, incorporates storytelling to e
 > Watch how the persona’s journey inspired design decisions and shaped the final experience.
 > 
 <p align="center">
-  <img src="./image/storytelling.gif" width="600" alt="Storytelling Animation"/>
+  <img src="./image/storytelling.gif" width="400" alt="Storytelling Animation"/>
 </p>
 
 ---
@@ -39,11 +39,8 @@ It visualizes user flows to identify pain points, incorporates storytelling to e
 
 > Explore the interactive prototype that brings the design to life.
 
-[▶ View Figma Prototype](https://www.figma.com/proto/your-prototype-link)
+[▶ View Figma Prototype](https://www.figma.com/proto/zBx3VqjyuJguNWb3oT8TA1/PlanGo-Travelling-App?node-id=2078-3038&p=f&t=7Etaxm74a8onbIjB-1&scaling=scale-down&content-scaling=fixed&page-id=1%3A2&starting-point-node-id=2078%3A3038)
 
-<!-- 或者如果你有视频演示：
-[▶ Watch Figma Demo Video](./videos/figma-demo.mp4)
--->
 
 ---
 
