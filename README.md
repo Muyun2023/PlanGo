@@ -41,6 +41,7 @@ It visualizes user flows to identify pain points, incorporates storytelling to e
 
 [![Figma Prototype](./image/figma-preview.png)](https://www.figma.com/proto/zBx3VqjyuJguNWb3oT8TA1/PlanGo-Travelling-App?node-id=2078-3038&p=f&t=7Etaxm74a8onbIjB-1&scaling=scale-down&content-scaling=fixed&page-id=1%3A2&starting-point-node-id=2078%3A3038)
 
+[▶ View Figma Prototype](https://www.figma.com/proto/zBx3VqjyuJguNWb3oT8TA1/PlanGo-Travelling-App?node-id=2078-3038&p=f&t=7Etaxm74a8onbIjB-1&scaling=scale-down&content-scaling=fixed&page-id=1%3A2&starting-point-node-id=2078%3A3038)
 
 ---
 
