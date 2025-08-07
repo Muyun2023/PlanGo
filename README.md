@@ -28,14 +28,10 @@ It visualizes user flows to identify pain points, incorporates storytelling to e
 ### 📖 Storytelling Animation
 
 > Watch how the persona’s journey inspired design decisions and shaped the final experience.
-
-[▶ Click to watch storytelling animation](./videos/storytelling.mp4)
-
-<!-- 如果你有 GIF，可以改为：
+> 
 <p align="center">
-  <img src="./images/storytelling.gif" width="600" alt="Storytelling Animation"/>
+  <img src="./image/storytelling.gif" width="600" alt="Storytelling Animation"/>
 </p>
--->
 
 ---
 
