@@ -20,7 +20,7 @@ It visualizes user flows to identify pain points, incorporates storytelling to e
 > This diagram shows how users navigate through the app and where pain points and solutions are identified.
 
 <p align="center">
-  <img src="./images/user-flow.png" width="600" alt="User Flow"/>
+  <img src="./image/user-flow.png" width="600" alt="User Flow"/>
 </p>
 
 ---
