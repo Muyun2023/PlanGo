@@ -1,26 +1,58 @@
-# PlanGo
+# ✈️ PlanGo
 
-**PlanGo** is a UIUX design course project that addresses common issues travelers face. It visualizes user flows to identify problems and show solutions, uses user storytelling to detail the design process, and presents the final product interface created in Figma.
+**PlanGo** is a UI/UX design course project that addresses common challenges travelers face.  
+It visualizes user flows to identify pain points, incorporates storytelling to explain the design thinking process, and presents a polished interactive prototype built in Figma.
 
-## Features
-- **User Flows**: Visualize traveler pain points and solutions.
-- **User Storytelling**: Demonstrate the problem-solving process.
-- **Figma Interface**: A fully designed travel-related solution.
+---
 
-## Installation
+## 🌟 Features
 
-Clone the repository: git clone https://github.com/Muyun2023/PlanGo.git
+- **User Flows**: Map out traveler scenarios to uncover friction points and design solutions.
+- **User Storytelling**: Show the emotional and practical journey of a user through animation.
+- **Figma Prototype**: Deliver a full interface design with interactions and responsive layout.
 
-Figma installation required. Access the designs directly on Figma.
+---
 
-## Usage
-Review the user flows and storytelling to understand the problem-solving approach.
-Interact with the product interface through Figma.
-Contributing
-Feel free to fork the repository, open issues, or submit pull requests. Contributions are welcome!
+## 🖼️ Preview
 
-## License
-This project is licensed under the [Your License] License. See the LICENSE.md file for more details.
-Let me know if you need any more edits!
+### 🔄 User Flow
 
-© Muyun Ji. Confidential and Proprietary. All Rights Reserved.
+> This diagram shows how users navigate through the app and where pain points and solutions are identified.
+
+<p align="center">
+  <img src="./images/user-flow.png" width="600" alt="User Flow"/>
+</p>
+
+---
+
+### 📖 Storytelling Animation
+
+> Watch how the persona’s journey inspired design decisions and shaped the final experience.
+
+[▶ Click to watch storytelling animation](./videos/storytelling.mp4)
+
+<!-- 如果你有 GIF，可以改为：
+<p align="center">
+  <img src="./images/storytelling.gif" width="600" alt="Storytelling Animation"/>
+</p>
+-->
+
+---
+
+### 🎬 Figma Prototype Demo
+
+> Explore the interactive prototype that brings the design to life.
+
+[▶ View Figma Prototype](https://www.figma.com/proto/your-prototype-link)
+
+<!-- 或者如果你有视频演示：
+[▶ Watch Figma Demo Video](./videos/figma-demo.mp4)
+-->
+
+---
+
+## 🚀 Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Muyun2023/PlanGo.git
